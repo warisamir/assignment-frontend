@@ -1,8 +1,8 @@
-﻿# grull_assignment
-# -------------follow step wise-------
-### `git clone https://github.com/abhay1verma5/grull_assignment.git`
+﻿# grull_frontend_assignment
+# -------------follow stepwise-------
+### `git clone https://github.com/warisamir/assignment_frontend.git`
 
-### `cd grull_assignment`
+### `cd assignment_frontend`
 
 ### `npm install`
 
